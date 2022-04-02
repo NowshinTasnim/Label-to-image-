@@ -1,1 +1,1 @@
-# Label-or-speech-to-image-
+# Label-to-image-
